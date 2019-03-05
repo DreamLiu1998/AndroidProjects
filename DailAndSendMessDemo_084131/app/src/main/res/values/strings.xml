@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DailAndSendMessDemo_084131</string>
+    <string name="num">请输入手机号码</string>
+    <string name="content">请输入短信内容</string>
+    <string name="btn">发送短信</string>
+    <string name="btn1">打电话</string>
+    <string name="btn2">发短信</string>
+    <string name="num1">请输入电话号码</string>
+    <string name="btn3">拨打电话</string>
+</resources>
